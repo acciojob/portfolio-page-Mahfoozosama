@@ -1,2 +1,12 @@
+#projects{
+	color : green;
+	border : 1px solid black
+}
 
+#skills{
+	padding : 3px
+	text-decoration : required;
+	color : red
+	
+}
 /* Your CSS Code here. */
